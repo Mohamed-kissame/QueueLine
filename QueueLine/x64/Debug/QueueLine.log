@@ -1,0 +1,32 @@
+﻿  QueueLine.cpp
+C:\Users\mkiss\OneDrive\Bureau\Course12\QueueLine\clsString.h(164,19): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'QueueLine.cpp')
+  
+C:\Users\mkiss\OneDrive\Bureau\Course12\QueueLine\clsString.h(169,23): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'QueueLine.cpp')
+  
+C:\Users\mkiss\OneDrive\Bureau\Course12\QueueLine\clsString.h(231,20): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'QueueLine.cpp')
+  
+C:\Users\mkiss\OneDrive\Bureau\Course12\QueueLine\clsString.h(305,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'QueueLine.cpp')
+  
+C:\Users\mkiss\OneDrive\Bureau\Course12\QueueLine\clsString.h(337,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'QueueLine.cpp')
+  
+C:\Users\mkiss\OneDrive\Bureau\Course12\QueueLine\clsString.h(434,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'QueueLine.cpp')
+  
+C:\Users\mkiss\OneDrive\Bureau\Course12\QueueLine\clsString.h(478,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'QueueLine.cpp')
+  
+C:\Users\mkiss\OneDrive\Bureau\Course12\QueueLine\clsString.h(566,13): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'QueueLine.cpp')
+  
+C:\Users\mkiss\OneDrive\Bureau\Course12\QueueLine\clsString.h(572,17): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'QueueLine.cpp')
+  
+C:\Users\mkiss\OneDrive\Bureau\Course12\QueueLine\clsQueueLine.h(107,30): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'QueueLine.cpp')
+  
+  QueueLine.vcxproj -> C:\Users\mkiss\OneDrive\Bureau\Course12\QueueLine\x64\Debug\QueueLine.exe
